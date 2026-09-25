@@ -5,7 +5,6 @@ int main(){
 	char b;
 	float f;
 	printf("Input:\t");
-	x
 	scanf("%d",&a);
 	scanf(" %c",&b);
 	scanf("%f",&f);
